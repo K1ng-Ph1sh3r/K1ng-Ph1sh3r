@@ -1,5 +1,2 @@
 ## Welcome to my profile 👋
-
-#### I don't really know why you came here, there's nothing to see here (for now 👀)
-
-Enjoy your stay !
+My name is Loris, I am a French IT Security student, and on my spare time, I do some Infographics, documentations and procedures on several subjects that I consider as important.
